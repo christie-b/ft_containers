@@ -11,7 +11,7 @@ An AVL Tree was used for the Map container.
 www.cplusplus.com and https://en.cppreference.com/ were used as a reference.  
 Complying with the C++98 standard, C++11 features were not implemented.  
 
-**What was implemented:  **
+**What was implemented:**
 - iterators_traits  
 - reverse_iterator  
 - enable_if  
