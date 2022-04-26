@@ -4,7 +4,7 @@
 
 Validated on March 28th, 2022
 
-100/100 with bonuses
+100/100
 
 Implementing 3 of the STL containers: **Stack**, **Vector** and **Map**, with all its member functions, non-member functions and overloads.  
 An AVL Tree was used for the Map container. 
