@@ -19,7 +19,6 @@ What was implemented:
 - std::make_pair  
 
 Usage:  
-Usage:  
 `make` will create 2 executables, `ft_containers` (the version we implemented), and `std_containers` (the STL version).  
 It will then execute both executables and run a diff on both outputs.  
 `./ft_containers` will run the *version we implemented* and show its output.  
