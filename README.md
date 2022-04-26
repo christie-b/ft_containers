@@ -8,7 +8,8 @@ Validated on March 28th, 2022
 
 Implementing 3 of the STL containers: **Stack**, **Vector** and **Map**, with all its member functions, non-member functions and overloads.  
 An AVL Tree was used for the Map container. 
-www.cplusplus.com and en.cppreference.com were used as a reference. Complying with the C++98 standard, C++11 features were not implemented.  
+www.cplusplus.com and https://en.cppreference.com/ were used as a reference.  
+Complying with the C++98 standard, C++11 features were not implemented.  
 What was implemented:  
 - iterators_traits  
 - reverse_iterator  
